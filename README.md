@@ -4,7 +4,7 @@
 
 ## Hey world, I'm Will Stanistreet! 👋 
  
-💻  I'm a software engineer-in-training with an interest in full-stack development and data science!  
+💻  I'm a software developer with an interest in full-stack development and data science!  
 
 🩻  I have a Master's in Biomedical Engineering, having done my disertation in medical image processing.
 
